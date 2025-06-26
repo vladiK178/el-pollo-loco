@@ -10,4 +10,4 @@
 - Responsive canvas layout
 - Score and health system
 
-## 📁 Project Structure
+
